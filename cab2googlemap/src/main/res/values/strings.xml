@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cab2GoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
